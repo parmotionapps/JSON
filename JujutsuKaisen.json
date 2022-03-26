@@ -1,0 +1,340 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Toge Inumaki Jujutsu Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/83NzjaRUmspI10xBPm-jiLYn3N2ltNbvmA4kCAO-8YM1hK0mIE7t_fW_d35j0_dxbnKDybW0adiSw6vr78HHapg",
+      "view_skin":"https://lh3.googleusercontent.com/U7NwZyNM3chWpXfZrx8vZsbaVd5xNDvKEFJ1k9IBH-TYoPaPjzjWux92_fn2Nc4GdxH0nkMfNEEmCQPE3YCfcYk"
+    },
+    {
+      "id":2,
+      "name_skin":"Crow Jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/YvSpa7okT7v-r_ri3uhxShvJeBjwbrKVo2ezZsFctS1HPiMDkwFkeuMVlR_g2kb5thQpRvlJlncKA_PpRhuAC-3_QG2QgGAJp5M",
+      "view_skin":"https://lh3.googleusercontent.com/Xk75IqSc49occYltlaKTQmUG0KqFlOEM-t_OLu5-c-foSdGJ4eatSy3-Qp62qER2NvpvDp2VHrHKhhkNk0jCvwuU5KEjTnya9x8"
+    },
+    {
+      "id":3,
+      "name_skin":"Jujutsu Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/FsSVUIz9K79mIcHrBeRgooqhP2x6NPUIYc4aBCefFKly7qpQg3RmM-j8JnbaBTVZeOjtHfQMfA0VIudbJylrVKKWUwxUzaRA2lY",
+      "view_skin":"https://lh3.googleusercontent.com/V7rQ1naH1Msh8HsDMd6kzxIz0VDUZ0iqLTcnNaWwEVbr_6FIs2tr0ifVbYif1GRrCx3-oTDKrOEY3mKcALPfRWQMx7SJf7dj1EQ"
+    },
+    {
+      "id":4,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/UkDRJYZEHiQmFGh7rxOoUKMKUWtW5hmbUdAPDiv8y66Hvr7ZOccUkbLyqBELpChvRGawe_edYn43oHLEfGjvKLo3tfCo2aTazNCE",
+      "view_skin":"https://lh3.googleusercontent.com/CKqIKx9QeM_71e7SjDobKXfcQwIBN8g5ymYtIuMUUP73dB8VtLDaZhLrpOGmz7vT7UTPODHe4hkVhPrTENFjPnW3DlwsdMS0oow"
+    },
+    {
+      "id":5,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/500XaMQ52xBQuJPJ_TRO5NL_eFwIIfYD48gXI_eZMefz_QFc2LymU44v9UzirkX6QP_SeIZD6dfouUjUBkog0-yO3VU_wkLU4Q",
+      "view_skin":"https://lh3.googleusercontent.com/zrmmHMFLxIcH8OR7pPCxrsDFugIVeC9O7mywVcX18ryEwy0MMBYieGdfI_PPPMGUBZt9loWGpv6vclR2onhkFbtkfzug8Wq84UY"
+    },
+    {
+      "id":6,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/8MUF6_PGRpAkn9wE_4dSCxIxOGvpqNo8CkUqAwDhVgHa8AxlHTS38zDaMMRMAHCVrtM2QJ8HdcWLZ7h60wKDDg6cUZwCDR_o0UI",
+      "view_skin":"https://lh3.googleusercontent.com/sycS50bWuAUsMEtpbqN7gVg8stvPCAtmt1Io3gesdqoJBNRMzS4kDWL0vGLCIC-Ob5o85r6GyfRLZ6hNybMmvHXROdVWMLFe-RQ"
+    },
+    {
+      "id":7,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/LmujFAnwNhI_9oJWPez0olVYyPpZiKty9SylT7ffXnujw2Kb0amFdjH8Os25jKiqPc49UAR7-wrhcV49shFg9r4_ot3RKsnObOw",
+      "view_skin":"https://lh3.googleusercontent.com/Wx9JHho8wOCc3uX6EtA5ica84-aqd6LeYW_KwAb2KgBzl3yINjF0ZqaEH7SNQ7Xt23hNMRe6mZ_J41EQFB5Xi1XIfJAZtODP2w"
+    },
+    {
+      "id":8,
+      "name_skin":"Jujutsu Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/HeOYQM4EaOR13W6MBD8MrCv4wuYNwn4x_-QGe2HDRrGD4emii4vZbReGAQ_1o8xG2vI8OhsPDUnX3ttS0zW2uAEMYiv4zotlaW8",
+      "view_skin":"https://lh3.googleusercontent.com/qAKfdQ1ZFU-TQzUZOcYBb1W-wLiTGgMTY0dj2e4g4wI18soacsKiPe2ODanDNtTO-uN0ZA0VHu28AOSZ5vXVe_tHEFsi6zZbBGCY"
+    },
+    {
+      "id":9,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/h0_25gIhiLZK5NbFi-1JYgnymLLtUjIFtn91LGauSFEIFGsmPqjO0BTj3zuDSeaDfxkRFHAQTDT6qQOWL4TcvcKVkjUZ75TzM557",
+      "view_skin":"https://lh3.googleusercontent.com/vFCA5ytTngck44tOnTCmGOB9tvhOSzelzO-rzyVPH-QgJ0v7WFOebeqqiqt_a6q62nq21ezypQtWGw1P6jG4SB7iyIjXavRY4Q"
+    },
+    {
+      "id":10,
+      "name_skin":"OSCLAV JUJUTSU KAISEN",
+      "skin_url":"https://lh3.googleusercontent.com/yk7HGh5ae9RvGD14mrXjbFzwoacXMVyeTGsKPHUUJw3Slp9sNEA9-q9lfShWLLJCt3TebSpVPn484jyEMy7DzJEefRqhtsgUtDM",
+      "view_skin":"https://lh3.googleusercontent.com/wz9rgI-Gy9uRAPXOyaPRH2G4u1c9d6xdkla2tAwvDAfPSQN_bwPTbD78Dl1mF3uogEXTM_nVd9-EY50S68OiwGsC4wsU6X235g"
+    },
+    {
+      "id":11,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/Xf8HgA_Wk1DidKcyMLfmMcD6SZjnwpDqQC9SowpYpa5c-bTHk8KWV0O81dSSfpW4yGFOipoGMlZull9hSeBZLSiv7MNSCmYG7ZM",
+      "view_skin":"https://lh3.googleusercontent.com/ZXXo29g_LdqV4IaMhoUVTfmiT3L_LrvDQWeNKfyCYKkC77K54SqCLsTc80LKBVEv9I7Hz6V-MXpr0A3Pxndgsh6UhBkqq8Nm1g"
+    },
+    {
+      "id":12,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/FzmRKnQsRfVf9yy-mAbl0kFKyJ7eDdbZZaZzw0r5_rYFfAz3MZqySNdeAfl1lLCM3XBK4nmMityRi0tmv2H6noVOZi59IObRZBc",
+      "view_skin":"https://lh3.googleusercontent.com/S-CiQ3jMVFehkqZe0q9h_dids2kPNghPoWD3Qjfk7seIpo60vKxDsorfr_PBDfniATrQsmcLlKT5W9yWY946vRSKY5uhdx9cj8hu"
+    },
+    {
+      "id":13,
+      "name_skin":"shrek anime jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/qH2GA5KJpRq3XZcUrvDN6k8PYrMtMT__-JcP4yl0aqDw40Wnhx3mo7QuDgg3qRssCLh5SGD5s3c3LO8Nti6cCeAQTVQRbmIlcx4",
+      "view_skin":"https://lh3.googleusercontent.com/cr4dBVdG4YrN1I8cxxep6T9z_dMd3MuCbXT79DUaWdLOoS03Rd9-n2NvxFusipOPtpaE4tsdjPJF_HxBGny4D4lufEMudRmt-Xg"
+    },
+    {
+      "id":14,
+      "name_skin":"Jujutsu Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/mc-4hhV4bxvuDVflipdnKoXdcO7yIvJT_vh33xQtRpLM_9buDGj43Ci4DGVjKpiJp3gsY1nv7UjDiudW-TO7SNRfmt5xwOnFIO0",
+      "view_skin":"https://lh3.googleusercontent.com/ipKACRz2_bFOGHt_EHql5LH8eCkYdXmtaAxlUyFzHBTlvH1YCd83rvruTKD-LD_3XGxj7A15Rv8OcgN-saM9BvsNh7WbtDYXfE0"
+    },
+    {
+      "id":15,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/nhrrCjCv_S11NpU57tbfCoFwK06HBcJJJnN9lqr0k7NYt5mfmG9uQ0Dve8YyPgai9k1cF1yhGXZY3QrjK3N_HquzdYq9Dlkxvvs",
+      "view_skin":"https://lh3.googleusercontent.com/rXEbe7V8r7zc1UbIlWIUgB7QA5iM31o3YjIRRBlE5C6hU4gStv5tPONjnP7dp1Qd683sMBNDce7gZCCxxP_SZq7i52r2yioXqBA5"
+    },
+    {
+      "id":16,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/S4nNb5tOAUT_FEEcHrzhQ9OpXbTXObTB7DkxRNcjO4O5PdDB3BZOug6fpKNXV2S6S9T-ly3Rj1FKs_OrxQQExklxjU542JZz2g",
+      "view_skin":"https://lh3.googleusercontent.com/gULXclFie-vADW-4LkKpsb8xFHiFN5pEJUnn_J94Udxk_UamRWtjOAwdQk_bKxJkJdsEy5XGMSZZNRRccpTbnAXalGzXJ4Gn5-Y"
+    },
+    {
+      "id":17,
+      "name_skin":"Jujutsu Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/jMwHztXj4J_mlUmicSXsanSF5AO4GPpH6Ra1hz2mP2IPeidzjawai2aMCW-uJwuPyjFTmp9H6UQugllxbVgG3djs5E7ZyvH4bhce",
+      "view_skin":"https://lh3.googleusercontent.com/llJ2ECnUp3nJnUYjQTvSAuCop_fKdkVn7g4pAk4NC55mINLLdr7U-NssCNcZXoMM71p4X9P5radfGxSBfdroUkSHxCKLyDQ71HpZ"
+    },
+    {
+      "id":18,
+      "name_skin":"Utahime Jujutsu Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/RDbQFcWqa-S7J3Qoped1AwoSRcvvS4bxPpsJxBmJCaMhQJ4wwIY5EWDLZ_6m8crrYZheh0xspbSG2vIQLiwPmsrcNVCYSux30w",
+      "view_skin":"https://lh3.googleusercontent.com/nGp78ewQlCBq3NQRMKhQFyOUkcSRpWQzC9_XRz1h1UIqBbbTxztA_4RE8t5P1ijypmxzE6heZlRS28nZR7k42AVq-7WHSYP9fp4"
+    },
+    {
+      "id":19,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/K0wshEyG0h9-RtrMP_-tGnlSe7Hut9442SVmqDokDWcQHQTEsawtxuVqTW4hMkc2jfyP2fWX7ef1XRlC7v0iV7D9_HNjuCG36uQ",
+      "view_skin":"https://lh3.googleusercontent.com/zvtCCJi435hyrKJVD6JRajridAPLmk8wahbClyGd9pF2SdsywP8Oqp7oNPp668DCVWipB7uyrH_4gVCOhb_-0-o1xghKH8JFdTg"
+    },
+    {
+      "id":20,
+      "name_skin":"Jujutsu Kaisen Hanami",
+      "skin_url":"https://lh3.googleusercontent.com/efTTi2prv7gR9vl7gH-lFIrTeyxERMkCbIR-Ip6amkVa-X7VwHZSHSCFmMVT0BuE1Uwi_qwGJG_pgw4sD6gv9NYNPVbFuvg8SY0",
+      "view_skin":"https://lh3.googleusercontent.com/SzFWjOOKcdkzJntb1c_QItq0eQCFsuXttI0K7TQsAQKjp0oHQ6phloRC652wN_PAtb9wYmXYTwCyOnTo9zqdcc4efRMEx7JTUw"
+    },
+    {
+      "id":21,
+      "name_skin":"shin chan jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/cGNYaHEBfd_ILwVnsVJAogsJ0pyVwJ1LJsKYZQFoS8R1mbmyhTP_2TroJwd_pyrinAP9eC1UUQ78lNziajRgZaKjq4NeqyGq64XV",
+      "view_skin":"https://lh3.googleusercontent.com/i9cXy8CiZ-vnDrLJ24ssICOCRisjipdlNWotx9fZZ3dvWZa2ktsWrieNlKrRe2UKj7_rVFp8jE93mU4kRZMsfTJ-rGzhHA0mV_4"
+    },
+    {
+      "id":22,
+      "name_skin":"jujutsu kaisen slim",
+      "skin_url":"https://lh3.googleusercontent.com/a-mrhWYmN1J4jt1afM5XcrC63rACJNB-GWvm5uFMT3l9Y2n7MVGslS5jodpg0tFbcddUpLeM8j7Nq_6QOWEZ",
+      "view_skin":"https://lh3.googleusercontent.com/bPppBpfo6CQp8tb3kAgPvKUzRuecIcWrLPzYjKK8Q4FRz4dRNwQxWfItFHDtwj0fDlfozAKWTrdvAJmFmbgPPg"
+    },
+    {
+      "id":23,
+      "name_skin":"Jujutsu Mechamaru",
+      "skin_url":"https://lh3.googleusercontent.com/tiKUxgacEkbvzL-zVBkLbxGCrnIfASYQ9nFia0inloSIeuSVep1doHeczWkMhJIkRk2ubwQWzKR68zMkRWudV1PammK6GAd7CjI",
+      "view_skin":"https://lh3.googleusercontent.com/FXvEvWNcyvvNgfH6k1z91Ezn4Smzvc4kiB9YoXtfbVPE6SwN1ihJexsVniLJ2okmZYEfeSyAbj7V6trbN92dIYX0i7-9i4KXAZA"
+    },
+    {
+      "id":24,
+      "name_skin":"Jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/NYeL7qzyhXcpvrebfUT6Rg71RKGD-P_kWEJHvKmqOiPByhCncD3LCixPiGWTZuicGWn7OVDd914aVi2VwaDl_SXlcHnIN_sgRQ",
+      "view_skin":"https://lh3.googleusercontent.com/yjFCQN_T7X5899rv7wtbEfX2ZVg2EWwxNkSLth0KsjwfHt_6380XfsRcyIhV9-clAnDA3hrzXxXUnq1PfSKUIMosjdQcmDY9jw"
+    },
+    {
+      "id":25,
+      "name_skin":"Jujutsu Kaisen Kasumi",
+      "skin_url":"https://lh3.googleusercontent.com/xnX0j3-Eh8GtbZAc55y1WF7XXbTYgQ3r8agTA-fFfB6-ISVE43wOHf2ETIEXpt_ZQXChObLm4ZmaAaZgOWK0JEW5RDnNTo6fnyE",
+      "view_skin":"https://lh3.googleusercontent.com/TvbZSb1eGtcVVaH0B_6FR_5AHwFU2iRy9xUrK9TXyFrabcqkW2VhTPcPT_dLY2LYZke73GzCOFk1haPiY6S1GejHNxmKHWMuzDE"
+    },
+    {
+      "id":26,
+      "name_skin":"jujutsu",
+      "skin_url":"https://lh3.googleusercontent.com/18vk00shtKDH99VrVVS0RGs_M-8zChmdEXf2mll3yk3iYvteLUygOIJRvP9qcSswuSq8RkDQEGbFWdFxS0my8xvbc0a7hR4ca_Y",
+      "view_skin":"https://lh3.googleusercontent.com/8iEgoMF6mZLQGpyYEuLZxo9_g-db2SDPS6etW-I-_7ndKk5ioAm6bVWBiNwBBh8i1-XIK3wwW42U1w9tJzlLAbJ3nGtB7PRhYKk"
+    },
+    {
+      "id":27,
+      "name_skin":"Jujutsu Kaisen Matsuke",
+      "skin_url":"https://lh3.googleusercontent.com/Az-iJgRCcXxePXLLk_3PJ3Elk3Gl8TmDuxPBkyXWNiV3tvXFQT9Hy00cU1ETVc9Zw3ZozudVRo-2yTbFivUt3jMQOgB-ytOLCPtd",
+      "view_skin":"https://lh3.googleusercontent.com/60KNuQm7AIxlFv9e2I796BO5L9ia8OxFPykfwW4y8UT4aLwbWtAt2yy3wB60p4wV2rvGTnUmclLg9C6LayBNTjpnplL9qlhki-A"
+    },
+    {
+      "id":28,
+      "name_skin":"Jujutsu Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/Lu79UiBFD6P0wVR5ZbOXUaNp1NHzXBPEMpHYgfLjVYwN9-RL-fMB6Y0GVJON60rVZ4ewoSLLOz8J0fhRqWN5tmwVGOUj2fJU-Hs",
+      "view_skin":"https://lh3.googleusercontent.com/oxL4bt3R_QtZHTBuzP1UXzG5sWVcVaQzO1GgteBcQokoG1tCjr9a3CLEthGwNmcO8xWDQwMxBkXFCDiZaxJD_4cNB_APhMge-Xl1"
+    },
+    {
+      "id":29,
+      "name_skin":"Jujutsu Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/PPT-CohPuPwVzigrKvj7yzQlvxSp4gclZxG6yxA2jOMTyyJiGUH39lLhtbCBysG2BoV2mOzZvEObgHbT66-zRXDK2c0-oxQJUhw",
+      "view_skin":"https://lh3.googleusercontent.com/6nEJFec9AokLeGbKp95vsaSfqztI-0ozBM6YDtXSN89v_0g8SXwiLgi46HP0Wm27Fv2vxqXjZQak4qel0j_a9jefgtUyWkxey-8"
+    },
+    {
+      "id":30,
+      "name_skin":"Yuta Okkotsu",
+      "skin_url":"https://lh3.googleusercontent.com/quG5U-Q8XX0wWfjBuF6FN4caoGj7PjpGrk0dR4fO0-RFlg0EN6QrVRxGTN1JVhoCZ_WCtqYsPkYWweImjpQ_EJqPPMDVyZvmdg",
+      "view_skin":"https://lh3.googleusercontent.com/k3lehgpf3SSjHmAh_IEGsZm3kkrwocp4CN1LgbiS6B6dNeFsGTEQJ74RiFacJuxW-mnvz_4YQa0RmFP6q9SJfeSg1EuXs7eaZyls"
+    },
+    {
+      "id":31,
+      "name_skin":"jujutsu",
+      "skin_url":"https://lh3.googleusercontent.com/9TXIaJy5gKuVA_gvkgFnTuZuRFRsdeu_QSD_uYHdh6h7LVpkPSEM4bT-yVv5aFovw5pH7LPz0q58lCA-DQdTmWsC83lyMYTFuA",
+      "view_skin":"https://lh3.googleusercontent.com/G4uYtfiVVTYgLnn3wKIu_ZdAfaDfa3280CS7_IgO7lfEru6UgtyJzPRTwrnTUJPowq8d0MYhu_vznFrU929PeEYeHB82QzkkGw"
+    },
+    {
+      "id":32,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/iY6te3uQgOunypmrgHuEHAARLRqRoSeBU9PsnIboS14rQPbnXTRCKBpoU0Sg79sDo_TwNfZJQ6x2ttDwryKnCYV68_JE2Ry1MsJh",
+      "view_skin":"https://lh3.googleusercontent.com/dbj2WXwRfXF8EC104EvdM580KtODjqTVedJP9l4d928M5swt3ZRI0Di6CwvxFu5OwJGFit08R_7uEyWMyxpB3dFMrq2jpw8g4g"
+    },
+    {
+      "id":33,
+      "name_skin":"ikki jujutsu",
+      "skin_url":"https://lh3.googleusercontent.com/mlqAnR7Wy1SHLGoZY-PUqLlkzVpmGstFurGGpEBxYpLlQD290QIzfxi7lb3Ly8pEmElg2Wer-Zvqx5uSkvqpsZIhcfr1HFU4TQmF",
+      "view_skin":"https://lh3.googleusercontent.com/J3J52b2rMCWBSOzrYwBymzb9YNAYZIKxbC2u_sxXbZ2ecmCHCJ7-oOH7fQ7EDlQ5rY4uQ6JUuTSFlf3KtVXRzzcSsrlw5jypng"
+    },
+    {
+      "id":34,
+      "name_skin":"Jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/7oaiG14GHoB7tYW9N6tlt8vJrezUb0cwVAgBA_L_xekywdH037mYCusS5RdSYDchEUAIc0e_srx1LI-jfCyDxYiZppxM9HH38w",
+      "view_skin":"https://lh3.googleusercontent.com/R5AegFwebwPluzeQxTq7dPru5phmaHsNqRHynYGI5K8OqXW-07VlKDv4IYpAESiajXRDLqn-sgLLcUuX5bYFyktdUdOUYurHT_Ca"
+    },
+    {
+      "id":35,
+      "name_skin":"Christa uniform",
+      "skin_url":"https://lh3.googleusercontent.com/TfrHL_G__b9La4jXQ01WBYi4Y8GS1GdaRIho2H2Dmr1UBcxP7jdFPc9VfeQ6OklrbfaEeaAEC5OqytaB6s7GNO07ioRffrsGvg",
+      "view_skin":"https://lh3.googleusercontent.com/2oNmRk4Wjgz7D9pGAtKQz5Nxb3wY2AZ4gnoY8XzCOLgP5uMbWYZP0Ggw7r2ZhCftx3Xc71x-upHUApxtLtGlKLF6FecJ2utrGYM"
+    },
+    {
+      "id":36,
+      "name_skin":"jujutsu kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/5_lE4VlHlxcHm0oBonmqpfAQVHQENjVHdGQPnne7ulbl7k6hHYDTEuuM2jHyaqz4dLieyqfKDowGPRx_pCCo0R1vshSEB5CCcSo",
+      "view_skin":"https://lh3.googleusercontent.com/DFZB8d_cwIWkcKOGsg9OwaAQ8jLa-blaIXohZSSWthonfvzsvBQzUOxwNW8s0paLA1Sg3L38FFYn6qJ-d0rexasmydPdi7-rF2o"
+    },
+    {
+      "id":37,
+      "name_skin":"Jujutsu Kaisen Mink",
+      "skin_url":"https://lh3.googleusercontent.com/SvwVR7KsmFZJrCIbT5YJhEx6bSE_l5_5ykSxNf5sN8dOgJ1R-tJeNYFljsFl7YT3PmwaPciiJ9HQNywguHPJYwdDTviHv-qF3hg",
+      "view_skin":"https://lh3.googleusercontent.com/MjQrQR09FUhJA81m9ZZh3JOs5P_J7tkMNCPkJyN0Qqp8O_HrnFau3CUoyRZHGRG1ILxorPFpenfLyaR16TfA2HFo5s0cwFZYXQ"
+    },
+    {
+      "id":38,
+      "name_skin":"Kaisen Panda",
+      "skin_url":"https://lh3.googleusercontent.com/8VE8vBuwc5BG_7sy6fw_8DKxtg1IOkRpKsE36dVPi0JMtQ9O0900HPTR-kj-2UqKk0194vLw9zKB0vPfUxTo2CYPbOG86YpkSqY",
+      "view_skin":"https://lh3.googleusercontent.com/qw3CrxnzDAnQIswRoQD_D0m0Wsi9y3smlBL7ZDcqi7QMQfm1v26Um3FMc3sYSXONkzTOhFG5sVXixD9ShMZ_VJN70tls7Q97nKM"
+    },
+    {
+      "id":39,
+      "name_skin":"kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/L-8OQ9qxo53-S2wsUepL6P0VP1w9j4hspjPYR8Ntu2f6WN0WZYfqocxJ7MCI840moVMgjY_MvC98dBud80cONgkOGxpGmRCYVw",
+      "view_skin":"https://lh3.googleusercontent.com/HBP4ot_3mCesIluvtyza6GWmhpDdeM85eG0k0njnPQy7ZbEY8bjAzfwzcbOHFYDB_GVF5YN8xSoxEnrevFcEbe4yrxZg4N8gmQ"
+    },
+    {
+      "id":40,
+      "name_skin":"Kaisen Rema",
+      "skin_url":"https://lh3.googleusercontent.com/4xaGaCFZOOBJRQ4XqRicQ1xQMqJgs16ZqfVxWNgg7eWTB8GINExC_SJ8Mxc-VPKtLaRFLrC6OG-aMoTiB-PwzGXKoknujioL2uT_",
+      "view_skin":"https://lh3.googleusercontent.com/HL_H2VaWpzDWO5Kod3l_u33pDmpy0nylLO0BRlHTpTVC_yis9hnhe44TKf2fivJbt73zgZ10Rr9VoBHHrk4qvXyx2FhQrq0_RC4"
+    },
+    {
+      "id":41,
+      "name_skin":"Kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/FsSVUIz9K79mIcHrBeRgooqhP2x6NPUIYc4aBCefFKly7qpQg3RmM-j8JnbaBTVZeOjtHfQMfA0VIudbJylrVKKWUwxUzaRA2lY",
+      "view_skin":"https://lh3.googleusercontent.com/V7rQ1naH1Msh8HsDMd6kzxIz0VDUZ0iqLTcnNaWwEVbr_6FIs2tr0ifVbYif1GRrCx3-oTDKrOEY3mKcALPfRWQMx7SJf7dj1EQ"
+    },
+    {
+      "id":42,
+      "name_skin":"Kaisen Panda",
+      "skin_url":"https://lh3.googleusercontent.com/P7NfjUHF_mGDPjAW2SUiXoK2in1_mY6MeZtmfxSm9CrpRSOATZb-VoZY3DUXQyL76EXeLLf1kz7elQC8qxi1JZTErSuc6hdB-Ow",
+      "view_skin":"https://lh3.googleusercontent.com/1Sl25qxsY00Mq13eRKCed2Q1g7n5aZOv3as3PrkhOLwtuiJ5cCcfdCBxhiDw8UmaUAL64PNlm26EZ7m89AQI-eSVfeqJECqxtz4"
+    },
+    {
+      "id":43,
+      "name_skin":"kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/UkDRJYZEHiQmFGh7rxOoUKMKUWtW5hmbUdAPDiv8y66Hvr7ZOccUkbLyqBELpChvRGawe_edYn43oHLEfGjvKLo3tfCo2aTazNCE",
+      "view_skin":"https://lh3.googleusercontent.com/CKqIKx9QeM_71e7SjDobKXfcQwIBN8g5ymYtIuMUUP73dB8VtLDaZhLrpOGmz7vT7UTPODHe4hkVhPrTENFjPnW3DlwsdMS0oow"
+    },
+    {
+      "id":44,
+      "name_skin":"Jujutsu",
+      "skin_url":"https://lh3.googleusercontent.com/HeOYQM4EaOR13W6MBD8MrCv4wuYNwn4x_-QGe2HDRrGD4emii4vZbReGAQ_1o8xG2vI8OhsPDUnX3ttS0zW2uAEMYiv4zotlaW8",
+      "view_skin":"https://lh3.googleusercontent.com/qAKfdQ1ZFU-TQzUZOcYBb1W-wLiTGgMTY0dj2e4g4wI18soacsKiPe2ODanDNtTO-uN0ZA0VHu28AOSZ5vXVe_tHEFsi6zZbBGCY"
+    },
+    {
+      "id":45,
+      "name_skin":"shrek anime jujutsu",
+      "skin_url":"https://lh3.googleusercontent.com/qH2GA5KJpRq3XZcUrvDN6k8PYrMtMT__-JcP4yl0aqDw40Wnhx3mo7QuDgg3qRssCLh5SGD5s3c3LO8Nti6cCeAQTVQRbmIlcx4",
+      "view_skin":"https://lh3.googleusercontent.com/cr4dBVdG4YrN1I8cxxep6T9z_dMd3MuCbXT79DUaWdLOoS03Rd9-n2NvxFusipOPtpaE4tsdjPJF_HxBGny4D4lufEMudRmt-Xg"
+    },
+    {
+      "id":46,
+      "name_skin":"kenzie jujutsu",
+      "skin_url":"https://lh3.googleusercontent.com/Pq85-5IscAzT8y_A2WwxPld_uQO2PtCfhpv0KK6mqAsHHOAwaBVrCcdPRHdkdL_T5nQ_Bea5naHFPPY5nUT3m-YyBIblNfX9i8w",
+      "view_skin":"https://lh3.googleusercontent.com/V0mJlAFINcpyA3Vf5WLkY0GjHdCn3uYdKlt4nAs6u3joAe--m1af79O9UlElRIslFJNoNVtkML0tDJ08BqusM7TDEwIybcmjw6qg"
+    },
+    {
+      "id":47,
+      "name_skin":"Jujutsu boy",
+      "skin_url":"https://lh3.googleusercontent.com/mc-4hhV4bxvuDVflipdnKoXdcO7yIvJT_vh33xQtRpLM_9buDGj43Ci4DGVjKpiJp3gsY1nv7UjDiudW-TO7SNRfmt5xwOnFIO0",
+      "view_skin":"https://lh3.googleusercontent.com/ipKACRz2_bFOGHt_EHql5LH8eCkYdXmtaAxlUyFzHBTlvH1YCd83rvruTKD-LD_3XGxj7A15Rv8OcgN-saM9BvsNh7WbtDYXfE0"
+    },
+    {
+      "id":48,
+      "name_skin":"kaisen",
+      "skin_url":"https://lh3.googleusercontent.com/Zl57IhSyLR2IbYNOneuj-HztBYl4Eu8XQK50Yq-h2m4lMgKtdb4RQxs4uOUYBiLR71CfQR_LWm699GLR9m7WVgwDRSB0wjQHnpc",
+      "view_skin":"https://lh3.googleusercontent.com/exl4VBvTWRQAteqFHvGB072xuUZkwEPLtqZ0ZYb5ggR98D6A0z5zPtzwRCWlMwEKrwecmvuXQiOHsChCBU95dZmAdizF0ws6IlI"
+    },
+    {
+      "id":49,
+      "name_skin":"Kaisen Outfit",
+      "skin_url":"https://lh3.googleusercontent.com/hYBH8nHHQUdiib9gL8LIeEZJeA-rVca7ZiNIFZ6WNXV9_i-8fmA7KfI1or_WmoZ4J3WxoxTds38ZYniadkWnykRKuoe_vowJBXX7",
+      "view_skin":"https://lh3.googleusercontent.com/ZkV82uSvTSc3HefJ6pAJq_QZdywb7y3x80VS0lQo45fKpEWPQoDMgDLLVVUXm3oZcHrs45jCcvRM_Hb0iNAtOfg22xr1WsYmd6g"
+    },
+    {
+      "id":50,
+      "name_skin":"Jujutsu Kaisen Hanami",
+      "skin_url":"https://lh3.googleusercontent.com/efTTi2prv7gR9vl7gH-lFIrTeyxERMkCbIR-Ip6amkVa-X7VwHZSHSCFmMVT0BuE1Uwi_qwGJG_pgw4sD6gv9NYNPVbFuvg8SY0",
+      "view_skin":"https://lh3.googleusercontent.com/SzFWjOOKcdkzJntb1c_QItq0eQCFsuXttI0K7TQsAQKjp0oHQ6phloRC652wN_PAtb9wYmXYTwCyOnTo9zqdcc4efRMEx7JTUw"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
