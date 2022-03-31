@@ -41,7 +41,7 @@
       "name_map":"Mushy Island Map",
       "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
       "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
-      "des_map":"file:///android_asset/Map.html"
+      "des_map":"file:///android_asset/map.html"
     }
   ]
 }
