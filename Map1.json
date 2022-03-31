@@ -38,35 +38,35 @@
   [
     {
       "id":1,
-      "name_map":"Mushy Island Map",
+      "name_map":"Mushy Island Maps",
       "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
       "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
-      "des_map":"file://android_asset/map"
+      "des_map":"file:///android_asset/map"
     },
 	{
       "id":2,
-      "name_map":"Blazer Water Park map",
+      "name_map":"Blazer Water Park Maps",
       "map_url":"https://archive.org/download/blazer-water-park_202202/Blazer%20waterpark%20map%E2%9C%93/BlazerWaterPark.zip",
       "view_map":"https://archive.org/download/blazer-water-park_202202/Blazer%20waterpark%20map%E2%9C%93/blazer-water-park_2.png",
-      "des_map":"file://android_asset/map"
+      "des_map":"file:///android_asset/map"
     },
 	{
       "id":3,
-      "name_map":"Savanna Utopia map",
+      "name_map":"Savanna Utopia Maps",
       "map_url":"https://archive.org/download/savanna-utopia-resort/savanna%20utopia%20resort%20map/Savanna%20Utopia%20Resort.zip",
       "view_map":"https://archive.org/download/savanna-utopia-resort/savanna%20utopia%20resort%20map/savanna-utopia-resort_4.png",
-      "des_map":"file://android_asset/map"
+      "des_map":"file:///android_asset/map"
     },
 	{
       "id":4,
-      "name_map":"Legend Of The Evocator Outpost map",
+      "name_map":"Legend Of The Evocator Outpost Maps",
       "map_url":"https://archive.org/download/legend-of-the-evocator-outpost/the%20legend%20of%20the%20evocator%20map/Legend%20Of%20The%20Evocator%20Outpost.zip",
       "view_map":"https://archive.org/download/legend-of-the-evocator-outpost/the%20legend%20of%20the%20evocator%20map/the-legends-of-the-evocators-outpost_7.png",
       "des_map":"file:///android_asset/map"
     },
 	{
       "id":5,
-      "name_map":"Disneyland Resort map",
+      "name_map":"Disneyland Resort Maps",
       "map_url":"https://archive.org/download/dlr-bedrock/Disneyland%20Resort%20map/DLR%20bedrock.zip",
       "view_map":"https://archive.org/download/dlr-bedrock/Disneyland%20Resort%20map/disnsyland-resort-minecraft_11.jpeg",
       "des_map":"file:///android_asset/map"
