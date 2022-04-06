@@ -1,3 +1,33 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
     {
       "id":1,
       "name_skin":"Itachi Akatsuki",
@@ -598,3 +628,13 @@
       "skin_url":"https://lh3.googleusercontent.com/A3waKFzUVmLCU589DLdpnweQw6AmvQndM_I3bxXAX3GZeQl-tshtahUtDgcMT0qOpe4sj-wDPxFS2AGH-kruiIkpozh6FD0RME4",
       "view_skin":"https://lh3.googleusercontent.com/bkPUMGoW00DzUpdjYwnWkb1FZUQthqxMJiuom3JUTI8ViLnhE566W-zBrD4RmggfBKMXYORxoads-IamyYr6dmuGq_K10GuxZF0"
     }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
