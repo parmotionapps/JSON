@@ -1,0 +1,378 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/Xcgah082Ev9NLc2tCuLajTd3_yK2c5ycBlQCDLrvzHJK4hAOCYxSxFeXsj8W8lhNuPOqjjB5MmIotY1IG_YwNKaW9Vr7bWNnIlY",
+      "view_skin":"https://lh3.googleusercontent.com/SdpOBsxBa0NjI1ohnIILcCRBmk6ul8NTMrZ928YMkECHD7_is0JFoHR4wjlRshWvgKUCgAmFXH_TqoZ5adfzAiMJjgRwiAFNBMZ8"
+    },
+    {
+      "id":2,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/cHIX60ojv0P4QpIm4eZXzt7R84vUj64GokCrEWMdn8IZ5QJuI0uWwding5Klt41lxjFh4XQ1HKhLRII3PQ2xtakp0_RxTlnPqA",
+      "view_skin":"https://lh3.googleusercontent.com/tGOsAap-gauYC1XsEirtgK7WTBZHbRMwE-jCWpUTcLGQE0-ykd9BMDUwjDj59BtN7jOmOS8qkr6rxClFzJ-IBF33qSLOB4YJ25M"
+    },
+    {
+      "id":3,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/tNS56fF_4-mvCf9iCiWENotW3JsVhWQHnymMVGjVECa14s8olarKDSxOhO3aEotzTcoh5BaswtTMz-zYWPYubsiUfWnYUKISTw",
+      "view_skin":"https://lh3.googleusercontent.com/TOzV5V17VA6PkhGAAPF48J36ZAr-8EiUCSkZoND-PVULosEkuvpzCTg5CkIi8exxzSNB4xQ8Jm9-lQA5kxzVkGbG67zvx5M4kuE"
+    },
+    {
+      "id":4,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/nZRe2nvV7i98pV36TGljJ-E-XtuV1fbKs-ATmDlhKJgntAS2Ij9mpdqAxf9iTJ4yxeHg84y98l6KgK5ZqwHSUn7c0GjCf9DVz3A",
+      "view_skin":"https://lh3.googleusercontent.com/ILRcIGwO5kIv2N_6G0NFFX-vVeefimpICitS7FWI_HLLMLm7-cpphUjcJCMbU9J-Evu7OKJeQfLB-wcmSqFduF1qOU4oeNHB5LFq"
+    },
+    {
+      "id":5,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/-Bq4sDUohLvx2ouFbEyh3jpShNmuXRuSCkJI-up5gs3P7miihzHGrlsZaYl2uPVAaNHSMZb8R7BmxSPS7qjujEdKC8GkAkuH8qI",
+      "view_skin":"https://lh3.googleusercontent.com/uyhPbqMp6pFr81qS3gdzj8YjyeZfXJNfoUnD1H2WmieT17oB9nHd1Y5rEy_28TSx4cVKRTMjOaQwPWa0tr_Lera9R35UqWjg4w"
+    },
+    {
+      "id":6,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/SE261-NHnnsHCiISmcgjZW-s8ov8WEmq5qcbfjkJVfEULbtkK5LtplNj8qgqOeeOIIe9HD45vUZe8iDaP0PKzZOnrBdxgXkycp4",
+      "view_skin":"https://lh3.googleusercontent.com/h3D1JS0-a_sMf83EUqwan6FoTVvfwiSnS-Iimetat_nBzRdwLJtW8Kqg2hfs0ck2AeiiB1j3JDSDY21k7G41Z4OV5AtIb36qva0"
+    },
+    {
+      "id":7,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/mWxDUGeN5mNYtiONN3nnrjZywyoqOjOh96guK8K8Dn0Yw_fRjWcWPSvx16IZSenTLRr45c3vJq5s2WMqKzq-99uKhWtAlZT6DVzo",
+      "view_skin":"https://lh3.googleusercontent.com/zYcL6Q8aATccravhZymJvKkc8lS7Nb2zli2PSlWA3gc3SLte2RMghM8C-bd20MdUbWPPA-x93ZhoFtx7Tgt0jH1JoGWKNjTh91s"
+    },
+    {
+      "id":8,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/m3TyQr_9SEOgK94gyVmg-bHNXHZyBGQHfBo2vedoLA5bv-1RDncdWBjcq4H1t4qrMqSdlzqJAgQoWGOCeG945r7omGXiIRDFqtyZ",
+      "view_skin":"https://lh3.googleusercontent.com/t5CcjihAWLYJX1KNd2Algh2DfdjbwccLUSxFvoHOZiqBwtm0aJQpL-H5qQ7fqLGEzWb4PN7SaVvz_A9XeJkxMOpDWHXg_b5q980-"
+    },
+    {
+      "id":9,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/-HwPkYjkVQPRR6xC1YY5W0mQNmEaN3SwxNqCRtO6WkY66-NTPbpMKI-wirB5L-YSEZLg9bTxtSsWsvAo1oZnOWjekCr0JnP9IM64",
+      "view_skin":"https://lh3.googleusercontent.com/CIKgqRJX3AKs2PQj6pymLWEeDAFkW05uc653Su5mUTWFXKLIXx5RcssO6ajQFz5GnTgI4irKXc9PMxtsA-IP8AEx3zT-n7d2XzM"
+    },
+    {
+      "id":10,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/c9REUvrlOnsiTxxMDLLRGrxLprs-TdGbXSHTPb0_1cmpcG7rpwCikz4ZzSojw8aCDpL1i-09duQI-y_LbZUU2YTeJUo2xM8j19M",
+      "view_skin":"https://lh3.googleusercontent.com/xZWms1qp0Dv8rBKPVwefiSzd3F3gHlbLm2cyDjmwXhpr6wo0VuLedpBiPZ2zl0BrCks0HYe6O-9MjJayFidXofuKpulwDBXK2XXh"
+    },
+    {
+      "id":11,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/H0afrjGjv8IFqszDyC770SxUYNWwT1zLsKVtN6vbdWMaPQjvQNhk48XCLUsOwOSaSz1IHRDYFBRKbyzZi200",
+      "view_skin":"https://lh3.googleusercontent.com/qjbATqMviAlefOMK15ckD79fJupdaUP9ZWNBVwIyLiBtuuRradmX25h99SEzEg4BP3nYTmu3x2J7er_lNjTqmw"
+    },
+    {
+      "id":12,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/5fQfrFyWAzbUqFohIjvXwyyXQxLiZ3NkacEcW-p2f8zaWd_FKiP2tN9NE8DS19EaFPa5TJfFjnn-zf_SCgo-uA",
+      "view_skin":"https://lh3.googleusercontent.com/iX1__3G-cjG5tvcQ7H7sGfPiX0Fu6jGndhz-XsQYhSK2ix0ttzF1zrpfsNaRVOTEP0Qzr1Fm0X71YC05sDGZyQ"
+    },
+    {
+      "id":13,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/XhXe6nbYh-mMFlLZH3sdYLi5fPwUa6giTigJp9yuWbZjzuzbA-s2vETt1wq9N_1bBbFFpBV-z891wtQbxVIR",
+      "view_skin":"https://lh3.googleusercontent.com/l9IItFfH4JIR1GPnoQViOPm1KHBNV8m53k5oFFbQRrDUmF0WbTx5ZUCeuzfoOtJMuwKMrCIrTn3vUA3IVsll"
+    },
+    {
+      "id":14,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/hw62DF9inGYz03IQiHEu2LxWuvJNz0bqhmJLWUDonuDyIQ8cJqX_aVOGhmwcHFU_jdy2WW6L_Hr3yXpZPRROAmA",
+      "view_skin":"https://lh3.googleusercontent.com/QrnL0RcbH3_EY0-uiqU5WnT7qX8_agfbR8U7dK270op6Tda7hXeRItisOefgVM-eWIOArZhWOETedpLlc0oC"
+    },
+    {
+      "id":15,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/4AhJG4NNVdoYKGQF9IcjQ2NCvuYWjMSUD0z7XTCN4H-WpPDUa3vLxtVt7QBpM0aQXANk9h3-oFe0LYAUcEeyi-4",
+      "view_skin":"https://lh3.googleusercontent.com/VVznMATZ9EwfjIXFVEdBqtBE6eXK2UTGZXPATgkhlZSwC85Urp3nKEOGty4HeBRr84GcqWHfIfUhCXJEhBKE"
+    },
+    {
+      "id":16,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/MSZ-llIN67a4yZejq2pA6feR8zTVZR0HPxwK7l7ULJ5Ujfnj2Q-V9eqgg07N4mDeZbxwpuS8WwB4ilT1hgE8",
+      "view_skin":"https://lh3.googleusercontent.com/-3kXn2FMQGAR74srQoAxi-6602uNAsL1qcnQqHzY777LNAby7QaDogh8krTeEOM6UyqFW0g52vpbXXJhOn80kg"
+    },
+    {
+      "id":17,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/sRwdHhcZRSXeo5wlhuv0GQ9SEZGztmsgatts46jiyl4VJbnVr8nor901tSgcSHX78iFRVO8Gyx5hlSgnUm7f",
+      "view_skin":"https://lh3.googleusercontent.com/-nBCWU2HDQE-yZtxbcf6TFTwICXgGhGe0I1DXFuXUH0otl16mMNN3fmtvDK4-SZZOWM45011rmsk8vvdDzsB3g"
+    },
+    {
+      "id":18,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/DbM2zM2EmLfJErBXfnQSuBpr0GPWtt6W-sICYWQk0EBXkqhO5H1pTa-SdVXzDXMQf5Uw8H2cJWn6TuA3omJQ",
+      "view_skin":"https://lh3.googleusercontent.com/wn-SxWHgyjRWy4JM0FeK7Efm75BUm4QyPGULZZ6W00GvhBmPFLy_lSiT882LLft5H5ohCuo7_KhVOU4XS0zhsw"
+    },
+    {
+      "id":19,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/1nouHlE0w3CLUbi8Jgj_vv6z_PIW4m9_U3TAYbJFtzstRPlvgcNW6k7FiIxdSKo9PAYPazDA2pCGTzzizlbf",
+      "view_skin":"https://lh3.googleusercontent.com/mm0iruxBd9pRfbeB8iO3CzVeBZ4yUk7rKuIDuRBQNvvKj6iM39Rs5tTgJ29sZFIEu9H6sWYuo4P4_1bekeMg8A"
+    },
+    {
+      "id":20,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/1p_5fVyZ49_LaB_6um6Wt_7PoLjyEcHQe2bnwIqZR_d1XRTGY46b01db4QguM2w0eZ8rE4HqsDyh06KahWGQtw",
+      "view_skin":"https://lh3.googleusercontent.com/r7RcAXat7ziQoKUhd8SuBBaiZcvc7VP9xv8nIuIk8Ckm3Ccm2vGiqjY9P-_cp_cx_pgzAWOa1aPn9NII-Ee_"
+    },
+    {
+      "id":21,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/tCLsgemNO2gqeK-ZwR3jUyG2drfze4zuqA83e1juP4pk5NZJ-40G5rvmaafZ5YVIyCe1HHEAQOg_zrRdYuGjvA",
+      "view_skin":"https://lh3.googleusercontent.com/A5eUD_tNGRsUsk7CpiE1Ubi6zDppgX3Jhsyw6QOIwsvOVCt4eQBsxVmPy3HBysZO3u1xtU6UTpl5vDQa1AOiuQ"
+    },
+    {
+      "id":22,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/BqrlCNSPh5EfinNke-gDaTWCtXuiEkBC7tceqarRtPrVWjmX2qQ1HULqXYQicjxm_IPQMsdkmHKFruI7wJzlFg",
+      "view_skin":"https://lh3.googleusercontent.com/qGUQkn5vtPqiVtRExc4VU4iLgPvpjuZsIRavNzZT8euf-WAvvwkYUubnJnczxjvTy5kNSH-wYTblH9lA7mnaJw"
+    },
+    {
+      "id":23,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/9BZu2_FRbJvL2aQWxaHecF9B717WMe2NzCnbB1kIRY-BI8TgjcFcVlZDmMSKa8RDkoqjEwJeGlmUK5xxInGdju8",
+      "view_skin":"https://lh3.googleusercontent.com/GAQYYWUUN-4G9zXfbvPWxD7gfBGuEYgrUq5h8wBpGNvLxw2_av3EAKhwF_9fT3BCg8KoTjN6FuHGpLM80UMuGQ"
+    },
+    {
+      "id":24,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/-RqAX4_PDGA65-yoFHdaINY1TrQw5ZEGz6azUYS8X5q7pGzU-irYE2rGLm1cV6qf6sBR1LjFbtgIMettXdK2UZ4",
+      "view_skin":"https://lh3.googleusercontent.com/XHgRScs98yZz3X0MT_mp0Dp5Z5amgFe2VKi7mM0_nM4HnFQolaTbu8fCTMPh49j6zZ9JCHg8bmLxtFU-b1z_XQ"
+    },
+    {
+      "id":25,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/T00C9S_c_SHegpbsOpnq8GTc3eBxI6qiFJ1ZFkdMLSBbetxZf5zet6tWIqsqrRzrfnsZzmGZWWd4iHXMHe6s5A",
+      "view_skin":"https://lh3.googleusercontent.com/v-69cmyRvelnlvW1EtHlcI4r9QK4gQkXyxGbjekTe36agc4oZqq0SRJ16Se6_jkAMf_ekYmiOHqi0_t2Fs1f"
+    },
+    {
+      "id":26,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/NtyABEsHjXJERxtJbE5mLbIKiIH69sgahvOtY5kRhhVZH-A2YjiSVJo6jn5Vs-n6TOOkbpYRaLBjOvm98YJpfA",
+      "view_skin":"https://lh3.googleusercontent.com/kmDfiyd6Ohkv5SzQmLkbBKPQCT0GNif5C64Tyk4BAkilFViMxtaDz4H9A-N2CV_m_GiM1nc4fv0U3rzw6dsWEA"
+    },
+    {
+      "id":27,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/kboop4X6J6ssodBqqo8wN9QvBG1SvnQnbUrgajZZnt5Sl47VlgDyYC2rOKi_vbgG4OlqO3ihchvv3qnkCd-x",
+      "view_skin":"https://lh3.googleusercontent.com/sOMcVKKZrokMH7maULeQXWIAMghTMjkEp0RL7aMVwkAWt3vmEtvEl-Ex2pxIOHtgEa6ZFrc69X7wjr65HdsmyiE"
+    },
+    {
+      "id":28,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/8cv_qx3nVJmWHZCOwsjZSrstw-oyll1QDU_pU7gww0AmSTHBufi8B7mdVNW_o1RuHWv8XKexNRcPkZnY2MadvHE",
+      "view_skin":"https://lh3.googleusercontent.com/7TMqkP6wXS1TE7tJi4es3WSJSq62V7VRgSJochB9-jIVPUirEIThRKpTXZwky8rKU68LWKzTyfnggm2b3Q-f"
+    },
+    {
+      "id":29,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/dHUKLS7EmmLsxlafFwz7e_dfRjfs3cXf7-ZYiHZBgUCDOumUp4QJU0hJTAFjCjqG3I6iNBt98orcZiOyAf4L",
+      "view_skin":"https://lh3.googleusercontent.com/D_LpUCCaCnkkNLH-LQPm_vgnmBB09wuJgl3-vMHqpJ2NvUic4TV82ozQrQ-wHscnrb0KrOwd3RAbYhtt5xksFic"
+    },
+    {
+      "id":30,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/xGkdEVvSnCuGmwAuWNIEo-FneoGjvly5hzuVJyrMjapVWVTRtgKlUZhXeTqsZisghpC10bHi2ArZAxt06Hel",
+      "view_skin":"https://lh3.googleusercontent.com/crZZ2nKMiuujnKhQOqGvOR5ZgK2wcZP84GD9GZpcbNZvDjAN1Peal9S39C4SPDEPxmUwT2HTBitammIOlqjMfg"
+    },
+    {
+      "id":31,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/7CbFD3_wfWFp4o7XlFtLVEt9grEMnD6TNg531BVhING-tM9v9qc4-xshI4HSzOjFzQ6uaJZbq0K26U-ZqIgQGg",
+      "view_skin":"https://lh3.googleusercontent.com/VUrFVxq7C2Cl4ZlTwAbRPkPqi7l4xpNG-ez9qQRGQLvGEcRYYRp6042_dFB-74G6w8_VOBP0MWc8a3IUEOvbMg"
+    },
+    {
+      "id":32,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/kAZiuQvkqKX6ZYor4JAaUMuhLrM8g7tzzQgWXkD5sRvOg4_AlVe2VQlaclvPpmLsIrJddE_Vze1RRzkOG8z_kQ",
+      "view_skin":"https://lh3.googleusercontent.com/TON8MGTMLrSAFy3MNs2a4hTKYB_z4oAyCp6DY9NBr0D5BRxaA91617IaFfKNihfeBQo8yAT4cn4VJPlvFNewxA"
+    },
+    {
+      "id":33,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/QPViETAa0y8r5LFk3rFHEmbzeJ_iAhN87_GjJn9tddXJF_ORbm0jaRwsTRZ8xnNAIocqE_hoz0Xq0ztZVbQ4Hw",
+      "view_skin":"https://lh3.googleusercontent.com/GEHV-bTn0X4Fqf9BUFBuj2vbp_cZ5-VfH-VAo0Eshm9Vj3LnW4THq0Iu9LM3CryLjjMoQRyA5gQ3MJxcIG1XKyM"
+    },
+    {
+      "id":34,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/BpcLBxgP-9TuijY7XWVMf4JwQUuBshm-yIOjltu7Dv6N_CgV93phev3wQAoVaQEt1hkPFFkOoVRa7LbtLJwmFw",
+      "view_skin":"https://lh3.googleusercontent.com/tseP4zsyTQdTLyBKjIoV1f0ukEk5X4bIuqMGTCrvxa0rMZExfeIeJeETDsk8fxg8s5pP1nuUZg8TLrL-RvkPJno"
+    },
+    {
+      "id":35,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/k6exW8YTFTmzq1_BMqTob0VnfZs4HTF13qGxVjVqI7xOD_GlD_DycNFENq_nPfc0N1mewBY6e_ZMlY2HEl9HQQ",
+      "view_skin":"https://lh3.googleusercontent.com/IKFwRGJZQ1SMm0NU3o1dOcps9nKc7VzcS6GVSbmwZoKjMpfn1fOGLhhVzHAC8XSDf6ryKO2CiJXHcB877E2L"
+    },
+    {
+      "id":36,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/jNd9Y4Gxf-zp_vEEBV8XSUNkQwFZOwb-_i_gJDa6ub5Y0rVZVM89ti6urdhwZHt9qtZAPVErAoMaXieIyy9-xAjJsXIO7h4yhGyE",
+      "view_skin":"https://lh3.googleusercontent.com/Ji_8XzPqiANK8hS1bRQxjaVJ-k7XLakGrjxlEPIJbkzJm2WhPenw0QJJJzd3KOfw-2e7tJx0LOhfSuYZ70Dbz9m08vVyJeD95iCk"
+    },
+    {
+      "id":37,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/s-8ajyQOS0YcW0Na3UkXidx2b6s-7ptqFR0SJ-AhqbISESaAb--4vuaYQFHLw_Wvu3OnFfZIWbY-0zFJKHjDgrS87Hn8W2Lj1424",
+      "view_skin":"https://lh3.googleusercontent.com/w-FDmweFzX05g6iQnH_gxAfG6An6-hpcfsfHureFw4anYyT41rbh7SyvYSn86OSzRADla5hhB5S2YfPTV3yqyGllWzYhewVr03I"
+    },
+    {
+      "id":38,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/Rpn0SNdIDC5GeSek6w4dfVEolXJBO8tjHMl1BsKVbnJ4CYmZr2DXLDNe_W2dwLm4uB4-_DVQy-k-e-1VjjBYzS_W9hJefD845jaa",
+      "view_skin":"https://lh3.googleusercontent.com/j6mMCMIgGlqo3vXbcyeMUwGB-_wQLPYCFzGi4kQweugFX0sCy0YG35lzs96W0FV21o2g23Zt4Cs5wg8SHMtak5RcFCGuqwIeLQ"
+    },
+    {
+      "id":39,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/6ziEPEB5KLK4oQ0-ql4KfwL3PDlhBAoSpXNEo49UPhhSsdBKTCLe238I5IjEemnd6bzCLYgRkr78fwpmUW1h6-G7TN5jC26utcE",
+      "view_skin":"https://lh3.googleusercontent.com/H3GMalJn-TMZd27rvqlFXhVemWE5OV9_LWEryZ5Yw7alxISZayNLScce1vOK2__Mb_OLMNnsNUYa-ZC7ikowJMY6Ug8cBJ-qkQ"
+    },
+    {
+      "id":40,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/iyDOJPqHNTttZE3HTUybucTd1088OBsvxlyarbc_TI7Y78u7UgbCPTCexcItTEKhL6Ihmyc18-sXoFHWf9C3tY3wcdtEsr0qK79Q",
+      "view_skin":"https://lh3.googleusercontent.com/eHmNB8QDGFVuZ3RnwINYHQOX6VCamCujgz79b38cYfQgX6B5NRGXYTJpB_vlJcTybfUrjcX6TY012rOMwMzRWyVpWEo4FD_1ag"
+    },
+    {
+      "id":41,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/bNPcysfYllZGjJXmHtFUMBWVZZpwR4q3_1hqBulRjZbKEzL6fkijh2ezx6fDBhhH9LUZZKI3ajfTLiKYo4AcPPk",
+      "view_skin":"https://lh3.googleusercontent.com/4q7tWGC6_j6jqX1w-Px4TwN_hjjUtD60YyooaHaMEqcmX8KT_ELy4PD_NseczfkmsQmcWj5gLlxnl2oyyNEEu5A"
+    },
+    {
+      "id":42,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/yUFrbuYrQZTZXfpHitJSzKNpJaEeXLx-d4E27W7Gw4E_F118ZmYGg_1i0gi4dvgL76HZHzT5BuRLvXiuSs2PxMg",
+      "view_skin":"https://lh3.googleusercontent.com/6ullhRKtO8iFrlzn-Ox2LgrxSxmwim1vX_v4Rm-hPH7u7FUOMJpITi6rijO1tdtFglMMHlHPNLJ7cGA3UehE"
+    },
+    {
+      "id":43,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/lxVaH2VSHVL7YDStwq_wL94M-XNWYgBtRVPC6jEv8qupNcIEtf6y3hpcJ5JuVrODnMBgPfLBDY1wDyGR1Lytu52-mavHiq7Zkgs",
+      "view_skin":"https://lh3.googleusercontent.com/9DZxtz0C8cfuoYfm_lbj4BXDGKSY7_D-VTr9lrGWV6yu9VTBYrcGql5T8ZcuH-lUnHdVH8_VJbuUfIvrfj_F_g7QveYuovipdhs"
+    },
+    {
+      "id":44,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/qEnqngORi8OZH5rfNQQQOHvwKGJqPxCvkRqdpQZC-d3zHI1BCdoZ5O17SrJyZaUuDjdc6_HleNpBJko88OTgVBO1R7zKnnitOQ",
+      "view_skin":"https://lh3.googleusercontent.com/Yyt9FJw3tmLGfwpDCqYTdiMVxXVyuVAIHemuAJKKVRzoDRy7JCTglUPZItQfuB0def_kWKxAVJaHjL8X3b6hJSPjKXroy936JA"
+    },
+    {
+      "id":45,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/pJOPy2cFyPnhwDJ65rYBxj7ir-5QjslcxXrEq-pzlm-F7pD-cszMISzgFubRhqmSkO5oZi49W8MoZov7aGnsZoj5QSudor_3zEg",
+      "view_skin":"https://lh3.googleusercontent.com/TK8xx6SOVCZMCsNy_17UWZ-XP8RJogR9cNCrDK-fni1PCtJv_QPKS7yYH5zVUdi3yYP5hPcEC34rYEOuFbB3ZXkJGcpO5l-Ecg8"
+    },
+    {
+      "id":46,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/wGV6YEv-tWmzmqJlFtjblm-zQgaGdTZTvRX9hHIDdwopZJPYMUunohPlGR4lOzNXXDIRTuKTCw-2r_W4kPejMQU",
+      "view_skin":"https://lh3.googleusercontent.com/bBHzICKKzMm_hEjLe9Xl4kiSO3zSXFbihkU3682eKiTvRWs5IUw1KI4zFQqTAtKZIX7VeJfPty9sT6KexuME"
+    },
+    {
+      "id":47,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/C-Jpk6OSLUoL1Vxe-gVgy4Z5Q9Sm6eKeN7j0H3iJeOV_gVE7ljRy7YwVAFryf5ZijZQIcnveZ0KAad3xE7Vc4Q",
+      "view_skin":"https://lh3.googleusercontent.com/yYBAhEo7kmNulvXICzY9LAO8xQ0TBGVHJmFFckJWr-p4Tc2X3usKSa5t2ATfgUkxRgJmkeoJ5ehEVHhwNxGiZA"
+    },
+    {
+      "id":48,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/I26ZibkJHiKDbwpZiDeb-Rud6HGDXvqA7NKv0dkh6ZZ_snmoDwOR4SYwgIwyzt2KTBuGIb2YyFyBffzIwi-gnnnxgNOPsgqPJIY",
+      "view_skin":"https://lh3.googleusercontent.com/p_WBIyuqBfMvQQ_4LsC5WxCe1HPFzvyK32EWThcnz74UtOMQeQRA-g42jqQ1nLqTNO_caO_kTKKKkkreX0OaoM7kdlHU3IiDG78"
+    },
+    {
+      "id":49,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/BTo9M4pp_rFOMkDv6giT3HyaT_YwzB-QOyKa9sJUhVP-5vdADM90lcIzCM0_OWggcgrOuJImA8s6oQ2zDK_fNw",
+      "view_skin":"https://lh3.googleusercontent.com/YXPMQw7q3-XAXb2Gu-O60SIHQXsp1Nwl-QhbOtf-8gtOG0BjjL6uGRNp4t6i5lcyztnI34GpUCjVzn9nMB6o"
+    },
+    {
+      "id":50,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/ehAcsDaHoinTMIz6PdOJXey-bATVdRp6FiIrQsFGckL5A5N9k2vuA1zIFwkca6z2bAYkCmcvPRozA04W81Lx",
+      "view_skin":"https://lh3.googleusercontent.com/pRL1SS0xWuYvS2MOePPb2bF7Rzg_qZ5sUgssosE7KEuuBvHWUJ-pYXDgCo5dHetkIHuNWnwjrlNqmoRth9i8zw"
+    },
+	{
+      "id":51,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/AfjlEQaKqvHDsWBBLD1N6mw2rML-Yk2EgFCW64cvy6bpv6VmqmWhjacFPnTo72bY2enXQRmqgve1kzz7O1yoFw",
+      "view_skin":"https://lh3.googleusercontent.com/6V3zUQfu4zk7kRccwCbM8rMTbkWWg6IZSUIYXQC-yFSn-wHsi4Ik6H_N7m9auJmD0qibg-k3jOBCPmd8k3dEbA"
+    },
+    {
+      "id":52,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/yCkvFB3_A10oIcmcgCKjr4ULzeEpZnj7beYmgtY5GIXsMx5BmNtonA2BaavZ_MUV7i10B7ZfTdS7yVevh7_WLaQ",
+      "view_skin":"https://lh3.googleusercontent.com/djCsYV3wWp8AAQSngqq76wTaomhyAF_V6AE1YYI6mLET4GgE6E_yjW_D8eMdh0vNuzcx9G61PuomP4CL325fhg"
+    },
+    {
+      "id":53,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/YcHIY-a5wLGpb-DDmTAZt2rt6nY9aoxxyGGXLhoRyRABV3eiluvqwuwBad9yC002hVlHD4E6Z28Ul1jgASI_XQ",
+      "view_skin":"https://lh3.googleusercontent.com/iLFV6lxyKNEpcPAz5kdKLj4ZeB-KhvlIUzJzIk7vxmKiDFjZSfmSEd14Z1bn8h6KQvwzmHOhZeirn9tiYJj0"
+    },
+    {
+      "id":54,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/8GofNHuS6IcDrTjk8RJi2uMbkXSIHvcg86fLmRL2QYj0qb3GSz_K6rKQX0sESDPnMpguqJKwFChSUnm7m6TAFA",
+      "view_skin":"https://lh3.googleusercontent.com/qLCrcRXKOOpDu96E0j4erSOQEjtR4U82xvc5RqRbgrFRqgm8YrrlKDoCIN_iKraoD1rBSVQkuTcic2TvhFfJ2A"
+    },
+    {
+      "id":55,
+      "name_skin":"clash royal",
+      "skin_url":"https://lh3.googleusercontent.com/VgVPOFMokrSVl2D5At64jLwfB4ow5M9uMh93tspYKpR9e6TIrLcsK_O_uNjSxHcqtUu8wzFKCDwWrEYTdRWb",
+      "view_skin":"https://lh3.googleusercontent.com/ouyixIwjWEZycwvP1y_JroI_fb3URiBPIDdN7DO-tqpJ4SBoSyMXVHRGOo56RFJQbZXp3-cr1AH8Sm01BjzN"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"clash royal",
+      "add_url":"https://archive.org/download/CRASHROYALEREDVSBLUE/New%20folder/CRASHROYALEREDVSBLUE.zip",
+      "addB_url":"https://archive.org/download/CRASHROYALEREDVSBLUE/New%20folder/crashroyalb/",
+      "addR_url":"https://archive.org/download/CRASHROYALEREDVSBLUE/New%20folder/crashroyal/",
+      "view_add":"https://archive.org/download/CRASHROYALEREDVSBLUE/New%20folder/as.png",
+      "des_add":"file:///android_asset/Addon.html"
+    }
+  ],
+  "Maps":
+  [
+
+  ]
+}
