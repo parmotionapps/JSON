@@ -631,7 +631,24 @@
   ],
   "Addons":
   [
-
+    {
+      "id":1,
+      "name_add":"Boruto",
+      "add_url":"https://archive.org/download/boruto_202204/New%20folder/Boruto.zip",
+      "addB_url":"https://archive.org/download/boruto_202204/New%20folder/Borutoz%20%5BB%5D.mcaddon",
+      "addR_url":"https://archive.org/download/boruto_202204/New%20folder/Borutoz%20%5BR%5D.mcaddon",
+      "view_add":"https://archive.org/download/boruto_202204/New%20folder/a.png",
+      "des_add":"file:///android_asset/AddonBoruto.Html"
+    },
+	{
+      "id":2,
+      "name_add":"Naruto",
+      "add_url":"https://archive.org/download/naruto_202204/New%20folder/Naruto.zip",
+      "addB_url":"https://archive.org/download/naruto_202204/New%20folder/B.mcaddon",
+      "addR_url":"https://archive.org/download/naruto_202204/New%20folder/R.mcaddon",
+      "view_add":"https://archive.org/download/naruto_202204/New%20folder/p.png",
+      "des_add":"file:///android_asset/AddonNaruto.Html"
+    }
   ],
   "Maps":
   [
