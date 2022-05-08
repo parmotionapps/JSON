@@ -338,7 +338,7 @@
       "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-B.mcpack",
       "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-R.mcpack",
       "view_add":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/11.png",
-      "des_add":"file:///android_asset/Addon.html"
+      "des_add":"file:///android_asset/Addon.Html"
     },
     {
       "id":2,
@@ -347,7 +347,7 @@
       "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/weapon/PUBGMinecraft%20Addon_behavior_pack/",
       "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/weapon/PUBGMinecraft%20Addon_resource_pack/",
       "view_add":"https://archive.org/download/pubg-r_202205/PUBG/weapon/2.png",
-      "des_add":"file:///android_asset/Addon1.html"
+      "des_add":"file:///android_asset/Addon1.Html"
     }
   ],
   "Maps":
