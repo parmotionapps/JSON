@@ -631,7 +631,15 @@
   ],
   "Addons":
   [
-
+    {
+      "id":1,
+      "name_add":"Demon slayer addon",
+      "add_url":"https://archive.org/download/demonslayer_202205/New%20folder/Demonslayer.zip",
+      "addB_url":"https://archive.org/download/demonslayer_202205/New%20folder/demon%20z%20b.mcaddon",
+      "addR_url":"https://archive.org/download/demonslayer_202205/New%20folder/demon%20z%20r.mcaddon",
+      "view_add":"https://archive.org/download/demonslayer_202205/New%20folder/a.png",
+      "des_add":"file:///android_asset/Addon.Html"
+    }
   ],
   "Maps":
   [
