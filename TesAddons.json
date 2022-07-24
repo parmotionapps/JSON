@@ -34,12 +34,21 @@
   [
     {
       "id":1,
-      "name_add":"Ultimate Bedrock Utilities Addon",
-      "add_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Addon.zip",
-      "addB_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Behavior.mcpack",
-      "addR_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Resoures.mcpack",
-      "view_add":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/ultimate-bedrock-utilities_2.png",
-      "des_add":"file:///android_asset/Maps.Html"
+      "name_add":"Demon slayer addon",
+      "add_url":"https://archive.org/download/demonslayer_202205/New%20folder/Demonslayer.zip",
+      "addB_url":"https://archive.org/download/demonslayer_202205/New%20folder/demon%20z%20b.mcaddon",
+      "addR_url":"https://archive.org/download/demonslayer_202205/New%20folder/demon%20z%20r.mcaddon",
+      "view_add":"https://archive.org/download/demonslayer_202205/New%20folder/a.png",
+      "des_add":"file:///android_asset/Addon.Html"
+    },
+    {
+      "id":2,
+      "name_add":"PUBG Weapon",
+      "add_url":"https://archive.org/download/pubg-r_202205/PUBG/weapon/PUBGMinecraft%20Addon.zip",
+      "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/weapon/PUBGMinecraft%20Addon_behavior_pack/",
+      "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/weapon/PUBGMinecraft%20Addon_resource_pack/",
+      "view_add":"https://archive.org/download/pubg-r_202205/PUBG/weapon/2.png",
+      "des_add":"file:///android_asset/Addon1.Html"
     }
   ],
   "Maps":
