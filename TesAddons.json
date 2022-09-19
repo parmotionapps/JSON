@@ -677,9 +677,9 @@
     },
 	{
       "id":3,
-      "name_map":"Savanna Utopia Maps",
-      "map_url":"https://archive.org/download/savanna-utopia-resort/savanna%20utopia%20resort%20map/Savanna%20Utopia%20Resort.zip",
-      "view_map":"https://archive.org/download/savanna-utopia-resort/savanna%20utopia%20resort%20map/savanna-utopia-resort_4.png",
+      "name_map":"titanic Maps",
+      "map_url":"https://archive.org/download/titan_202202/titanic%20map/titan.zip",
+      "view_map":"https://archive.org/download/titan_202202/titanic%20map/rms-titanic_8.png",
       "des_map":"file:///android_asset/Maps.Html"
     },
 	{
@@ -691,16 +691,16 @@
     },
 	{
       "id":5,
-      "name_map":"Disneyland Resort Maps",
-      "map_url":"https://archive.org/download/dlr-bedrock/Disneyland%20Resort%20map/DLR%20bedrock.zip",
-      "view_map":"https://archive.org/download/dlr-bedrock/Disneyland%20Resort%20map/disnsyland-resort-minecraft_11.jpeg",
+      "name_map":"Medieval Village 3 map",
+      "map_url":"https://archive.org/download/medieval-village-3/medieval%20village%20map/Medieval-village3.zip",
+      "view_map":"https://archive.org/download/medieval-village-3/medieval%20village%20map/medieval-village_2.jpeg",
       "des_map":"file:///android_asset/Maps.Html"
     },
 	{
       "id":6,
-      "name_map":"Horror",
-      "map_url":"https://archive.org/download/kuntilanak-indonesia-version/horror%20map/Kuntilanak_Indonesia_version.zip",
-      "view_map":"https://archive.org/download/kuntilanak-indonesia-version/horror%20map/kuntilanak-horror-map_4.png",
+      "name_map":"Room map",
+      "map_url":"https://archive.org/download/room_20220209/room%20map/Room.zip",
+      "view_map":"https://archive.org/download/room_20220209/room%20map/the-room_4.jpeg",
       "des_map":"file:///android_asset/Maps.Html"
     }
   ]
